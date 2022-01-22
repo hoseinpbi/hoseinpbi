@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hoseinpbi
+- 👋 Hi, I’m Hossein
 - 👀 I’m interested in Data Science, Machine learning, Optimization, Python and Data mining
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on Data and optimization companies
